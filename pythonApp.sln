@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "exampleTCP", "pythonTCP\exampleTCP.pyproj", "{42172208-6394-49E0-815A-1947F76D0DBD}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pythonTCP", "pythonTCP\pythonTCP.pyproj", "{42172208-6394-49E0-815A-1947F76D0DBD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pythonUDP", "pythonUDP\pythonUDP.pyproj", "{62A8C5BF-ACAC-4032-A1F2-009934364F4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{42172208-6394-49E0-815A-1947F76D0DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{42172208-6394-49E0-815A-1947F76D0DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A8C5BF-ACAC-4032-A1F2-009934364F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A8C5BF-ACAC-4032-A1F2-009934364F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
