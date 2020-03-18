@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "exampleTCP", "PythonApplication1\exampleTCP.pyproj", "{42172208-6394-49E0-815A-1947F76D0DBD}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "exampleTCP", "pythonTCP\exampleTCP.pyproj", "{42172208-6394-49E0-815A-1947F76D0DBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
