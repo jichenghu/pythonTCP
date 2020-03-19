@@ -25,6 +25,9 @@
     <Compile Include="clientTCP.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="clientTCP_ex.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="serverTCP.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
